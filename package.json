@@ -1,0 +1,10 @@
+{
+  "dependencies": {
+    "@multiversx/sdk-core": "^12.5.0",
+    "@multiversx/sdk-wallet": "^4.2.0",
+    "@supabase/supabase-js": "^2.26.0",
+    "crypto": "^1.0.1",
+    "dotenv": "^16.3.1",
+    "jsonwebtoken": "^9.0.1"
+  }
+}
